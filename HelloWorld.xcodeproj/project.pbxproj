@@ -11,6 +11,7 @@
 		EDDF360027881B6B00985C63 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDF35FF27881B6B00985C63 /* ContentView.swift */; };
 		EDDF360227881B6C00985C63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDDF360127881B6C00985C63 /* Assets.xcassets */; };
 		EDDF360527881B6C00985C63 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDDF360427881B6C00985C63 /* Preview Assets.xcassets */; };
+		EDDF360D278825D600985C63 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EDDF360C278825D600985C63 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,7 +20,7 @@
 		EDDF35FF27881B6B00985C63 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EDDF360127881B6C00985C63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDDF360427881B6C00985C63 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		EDDF360B2788239000985C63 /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
+		EDDF360C278825D600985C63 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,7 +37,7 @@
 		EDDF35F127881B6B00985C63 = {
 			isa = PBXGroup;
 			children = (
-				EDDF360B2788239000985C63 /* .gitignore.md */,
+				EDDF360C278825D600985C63 /* .gitignore */,
 				EDDF35FC27881B6B00985C63 /* HelloWorld */,
 				EDDF35FB27881B6B00985C63 /* Products */,
 			);
@@ -128,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EDDF360527881B6C00985C63 /* Preview Assets.xcassets in Resources */,
+				EDDF360D278825D600985C63 /* .gitignore in Resources */,
 				EDDF360227881B6C00985C63 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
